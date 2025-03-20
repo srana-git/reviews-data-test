@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "count": 100,
+    "period": "February 2025",
+    "lastUpdated": "2025-03-01T00:00:00Z"
+  },
+  "reviews": [
+    {
+      "id": "r2001",
+      "text": "5 stars aren't enough to rate this support experience. Truly exceptional from start to finish.",
+      "date": "2025-02-28",
+      "agent": {
+        "name": "Isabella Taylor",
+        "title": "Senior Support Specialist",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2002",
+      "text": "The support team member was both professional and personable. Made the troubleshooting process almost enjoyable!",
+      "date": "2025-02-27",
+      "agent": {
+        "name": "Noah Anderson",
+        "title": "Customer Success Manager",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2003",
+      "text": "I've never had support this good from any other company. You've earned a customer for life.",
+      "date": "2025-02-26",
+      "agent": {
+        "name": "Emma Wright",
+        "title": "Client Relations Expert",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2004",
+      "text": "Even though my issue was complicated, the agent didn't give up and found a solution. That's dedication!",
+      "date": "2025-02-25",
+      "agent": {
+        "name": "Alexander Miller",
+        "title": "Technical Support Engineer",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2005",
+      "text": "Was dreading contacting support but it turned out to be so easy and pleasant. What a nice surprise!",
+      "date": "2025-02-24",
+      "agent": {
+        "name": "Grace Turner",
+        "title": "Customer Happiness Advocate",
+        "isVerified": false
+      }
+    },
+    {
+      "id": "r2006",
+      "text": "The attention to detail was impressive. They addressed all my concerns and even anticipated questions I hadn't thought to ask.",
+      "date": "2025-02-23",
+      "agent": {
+        "name": "William Clark",
+        "title": "Product Support Specialist",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2007",
+      "text": "Quick response, friendly service, and they actually solved my problem. Can't ask for more than that!",
+      "date": "2025-02-22",
+      "agent": {
+        "name": "Mia Lewis",
+        "title": "Senior Technical Advisor",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2008",
+      "text": "I appreciate how they explained everything in terms I could understand without being condescending.",
+      "date": "2025-02-21",
+      "agent": {
+        "name": "Benjamin King",
+        "title": "Client Solutions Expert",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2009",
+      "text": "Support responded within minutes and had my issue resolved shortly after. This level of service is rare these days.",
+      "date": "2025-02-20",
+      "agent": {
+        "name": "Charlotte Hall",
+        "title": "Support Team Lead",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2010",
+      "text": "The agent was extremely knowledgeable and efficient. They knew exactly what to do to fix my problem.",
+      "date": "2025-02-19",
+      "agent": {
+        "name": "Lucas Ward",
+        "title": "Senior Support Specialist",
+        "isVerified": false
+      }
+    },
+    {
+      "id": "r2011",
+      "text": "A refreshingly positive experience. The support team genuinely seems to care about helping customers.",
+      "date": "2025-02-18",
+      "agent": {
+        "name": "Harper Nelson",
+        "title": "Customer Success Manager",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r2012",
+      "text": "Seamless process from start to finish. My issue was resolved quickly and efficiently.",
+      "date": "2025-02-17",
+      "agent": {
+        "name": "Henry Cooper",
+        "title": "Technical Support Engineer",
+        "isVerified": true
+      }
+    }
+  ]
+}

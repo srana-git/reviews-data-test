@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "count": 100,
+    "lastUpdated": "2025-03-20T12:00:00Z",
+    "archives": [
+      "reviews-2025-02.json",
+      "reviews-2025-01.json",
+      "reviews-2024-12.json",
+      "reviews-2024-11.json"
+    ]
+  },
+  "reviews": [
+    {
+      "id": "r1001",
+      "text": "Absolutely fantastic support! The agent resolved my issue within minutes. I couldn't be happier with the service I received.",
+      "date": "2025-03-20",
+      "agent": {
+        "name": "Sarah Johnson",
+        "title": "Senior Support Specialist",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1002",
+      "text": "Simple. Quick. And we were able to solve my issue. Perfect!",
+      "date": "2025-03-19",
+      "agent": {
+        "name": "Michael Chen",
+        "title": "Customer Success Manager",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1003",
+      "text": "My support agent was patient and walked me through every step. Very impressed with the level of service! Would definitely recommend to anyone looking for reliable support.",
+      "date": "2025-03-19",
+      "agent": {
+        "name": "Jessica Williams",
+        "title": "Technical Support Engineer",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1004",
+      "text": "Fast response time and efficient problem-solving. Would definitely recommend to others!",
+      "date": "2025-03-18",
+      "agent": {
+        "name": "David Rodriguez",
+        "title": "Client Relations Expert",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1005",
+      "text": "I had a complex issue but the support team handled it professionally. Very satisfied with the outcome and will be coming back for sure.",
+      "date": "2025-03-18",
+      "agent": {
+        "name": "Emily Parker",
+        "title": "Product Support Specialist",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1006",
+      "text": "Excellent communication throughout the entire process. They kept me updated every step of the way which I really appreciated.",
+      "date": "2025-03-17",
+      "agent": {
+        "name": "James Wilson",
+        "title": "Customer Happiness Advocate",
+        "isVerified": false
+      }
+    },
+    {
+      "id": "r1007",
+      "text": "The agent went above and beyond to ensure my problem was resolved. Outstanding service!",
+      "date": "2025-03-17",
+      "agent": {
+        "name": "Olivia Martinez",
+        "title": "Senior Technical Advisor",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1008",
+      "text": "I've contacted support multiple times and they've always been helpful. This time was no exception - quick, friendly, and effective.",
+      "date": "2025-03-16",
+      "agent": {
+        "name": "Daniel Thompson",
+        "title": "Client Solutions Expert",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1009",
+      "text": "Wasn't expecting such a quick turnaround! My issue was fixed in under 10 minutes. Extremely impressed with the level of expertise.",
+      "date": "2025-03-16",
+      "agent": {
+        "name": "Sophia Lee",
+        "title": "Support Team Lead",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1010",
+      "text": "This is how customer service should be. Friendly, knowledgeable, and actually helpful. Thank you for the amazing experience!",
+      "date": "2025-03-15",
+      "agent": {
+        "name": "Matthew Davis",
+        "title": "Senior Support Specialist",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1011",
+      "text": "I was frustrated with my problem but the agent was patient and understanding. They fixed everything and even followed up later to make sure all was well.",
+      "date": "2025-03-15",
+      "agent": {
+        "name": "Ava Garcia",
+        "title": "Customer Success Manager",
+        "isVerified": true
+      }
+    },
+    {
+      "id": "r1012",
+      "text": "This company really values their customers. I felt heard and respected throughout the entire support process.",
+      "date": "2025-03-14",
+      "agent": {
+        "name": "Ethan Brown",
+        "title": "Technical Support Engineer",
+        "isVerified": false
+      }
+    }
+  ]
+}
